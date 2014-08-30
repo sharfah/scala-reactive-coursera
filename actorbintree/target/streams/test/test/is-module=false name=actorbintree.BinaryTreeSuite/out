@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0m[32mBinaryTreeSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- multiple insert test[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains test[0m[0m
+[0m[[0minfo[0m] [0m[32m- insert,remove,insert[0m[0m
+[0m[[0minfo[0m] [0m[32m- simple[0m[0m
+[0m[[0minfo[0m] [0m[32m- proper inserts and lookups[0m[0m
+[0m[[0minfo[0m] [0m[32m- instruction example[0m[0m
+[0m[[0minfo[0m] [0m[33m- behave identically to built-in set, excludes GC !!! IGNORED !!![0m[0m
+[0m[[0minfo[0m] [0m[32m- behave identically to built-in set, includes GC[0m[0m
+[0m[[0minfo[0m] [0m[32m- gc test[0m[0m

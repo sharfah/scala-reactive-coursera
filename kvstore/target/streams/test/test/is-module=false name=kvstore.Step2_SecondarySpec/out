@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mStep2_SecondarySpec:[0m[0m
+[0m[[0minfo[0m] [0m[32m- case1: Secondary (in isolation) should properly register itself to the provided Arbiter[0m[0m
+[0m[[0minfo[0m] [0m[32m- case2: Secondary (in isolation) must handle Snapshots[0m[0m
+[0m[[0minfo[0m] [0m[32m- case3: Secondary should drop and immediately ack snapshots with older sequence numbers[0m[0m
+[0m[[0minfo[0m] [0m[32m- case4: Secondary should drop snapshots with future sequence numbers[0m[0m

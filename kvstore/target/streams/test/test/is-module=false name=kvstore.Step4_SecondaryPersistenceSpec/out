@@ -1,0 +1,3 @@
+[0m[[0minfo[0m] [0m[32mStep4_SecondaryPersistenceSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32m- case1: Secondary should not acknowledge snapshots until persisted[0m[0m
+[0m[[0minfo[0m] [0m[32m- case2: Secondary should retry persistence in every 100 milliseconds[0m[0m

@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0mPackaging C:\Users\fahd\dev\scala2-coursera\quickcheck\target\scala-2.10\progfun-quickcheck_2.10-1.0.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	common\package.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\fahd\dev\scala2-coursera\quickcheck\src\main\scala\common\package.scala[0m
+[0m[[0mdebug[0m] [0m	quickcheck\Heap.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\fahd\dev\scala2-coursera\quickcheck\src\main\scala\quickcheck\Heap.scala[0m
+[0m[[0mdebug[0m] [0m	quickcheck\QuickCheck.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\fahd\dev\scala2-coursera\quickcheck\src\main\scala\quickcheck\QuickCheck.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

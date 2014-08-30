@@ -1,0 +1,21 @@
+[0m[[0minfo[0m] [0m[32mNodeCopyToFosterParentTestSuite:[0m[0m
+[0m[[0minfo[0m] [0m[33m- empty leaf node confirms copy without actually copying to new node !!! IGNORED !!![0m[0m
+[0m[[0minfo[0m] [0m[31m- active leaf node confirms copy while actually copying to new node *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  java.lang.AssertionError: assertion failed: timeout (3 seconds) during expectMsg while waiting for CopyFinished[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.assert(Predef.scala:179)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.testkit.TestKitBase$class.expectMsg_internal(TestKit.scala:327)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.testkit.TestKitBase$class.expectMsg(TestKit.scala:314)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at akka.testkit.TestKit.expectMsg(TestKit.scala:707)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at actorbintree.NodeCopyToFosterParentTestSuite$$anonfun$2.apply$mcV$sp(NodeCopyToFosterParentTestSuite.scala:57)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at actorbintree.NodeCopyToFosterParentTestSuite$$anonfun$2.apply(NodeCopyToFosterParentTestSuite.scala:51)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at actorbintree.NodeCopyToFosterParentTestSuite$$anonfun$2.apply(NodeCopyToFosterParentTestSuite.scala:51)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FunSuite$$anon$1.apply(FunSuite.scala:1265)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Suite$class.withFixture(Suite.scala:1974)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at actorbintree.NodeCopyToFosterParentTestSuite.withFixture(NodeCopyToFosterParentTestSuite.scala:31)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[33m- empty node with two children confirms copy while actually copying to new node !!! IGNORED !!![0m[0m
+[0m[[0minfo[0m] [0m[33m- active node with two children confirms copy while actually copying to new node !!! IGNORED !!![0m[0m
+[0m[[0minfo[0m] [0m[33m- empty node with left child confirms copy while actually copying to new node !!! IGNORED !!![0m[0m
+[0m[[0minfo[0m] [0m[33m- active node with left child confirms copy while actually copying to new node !!! IGNORED !!![0m[0m
+[0m[[0minfo[0m] [0m[33m- empty node with right child confirms copy while actually copying to new node !!! IGNORED !!![0m[0m
+[0m[[0minfo[0m] [0m[33m- active node with right child confirms copy while actually copying to new node !!! IGNORED !!![0m[0m

@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0mPackaging C:\Users\fahd\dev\scala2-coursera\simulations\target\scala-2.10\progfun-simulations_2.10-1.0.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	common\package.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\fahd\dev\scala2-coursera\simulations\src\main\scala\common\package.scala[0m
+[0m[[0mdebug[0m] [0m	simulations\gui\Grid.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\fahd\dev\scala2-coursera\simulations\src\main\scala\simulations\gui\Grid.scala[0m
+[0m[[0mdebug[0m] [0m	simulations\EpidemySimulator.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\fahd\dev\scala2-coursera\simulations\src\main\scala\simulations\EpidemySimulator.scala[0m
+[0m[[0mdebug[0m] [0m	simulations\Circuit.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\fahd\dev\scala2-coursera\simulations\src\main\scala\simulations\Circuit.scala[0m
+[0m[[0mdebug[0m] [0m	simulations\gui\EpidemyDisplay.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\fahd\dev\scala2-coursera\simulations\src\main\scala\simulations\gui\EpidemyDisplay.scala[0m
+[0m[[0mdebug[0m] [0m	simulations\Simulator.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\fahd\dev\scala2-coursera\simulations\src\main\scala\simulations\Simulator.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

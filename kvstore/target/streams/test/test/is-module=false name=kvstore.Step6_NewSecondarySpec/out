@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m[32mStep6_NewSecondarySpec:[0m[0m
+[0m[[0minfo[0m] [0m[32m- case1: Primary must start replication to new replicas[0m[0m
+[0m[[0minfo[0m] [0m[32m- case2: Primary must stop replication to removed replicas and stop Replicator[0m[0m
+[0m[[0minfo[0m] [0m[32m- case3: Primary must stop replication to removed replicas and waive their outstanding acknowledgements[0m[0m

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="progfun-quickcheck"
+		module="progfun-quickcheck_2.10"
+		revision="1.0.0"
+		conf="compile-internal"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom"
+		date="20131109181100"/>
+	<dependencies>
+		<module organisation="org.scalacheck" name="scalacheck_2.10">
+			<revision name="1.10.1" status="release" pubdate="20130407142757" resolver="public" artresolver="public" homepage="http://www.scalacheck.org" downloaded="true" searched="true" default="false" conf="default(compile), default, compile, runtime, master" position="1">
+				<license name="BSD-style" url="http://www.opensource.org/licenses/bsd-license.php"/>
+				<metadata-artifact status="successful" details="" size="1828" time="180" location="C:\Users\fahd\.ivy2\cache\org.scalacheck\scalacheck_2.10\ivy-1.10.1.xml" searched="true" original-local-location="C:\Users\fahd\.ivy2\cache\org.scalacheck\scalacheck_2.10\ivy-1.10.1.xml.original" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.10/1.10.1/scalacheck_2.10-1.10.1.pom"/>
+				<caller organisation="progfun-quickcheck" name="progfun-quickcheck_2.10" conf="optional, compile, provided, compile-internal" rev="1.10.1" rev-constraint-default="1.10.1" rev-constraint-dynamic="1.10.1" callerrev="1.0.0"/>
+				<artifacts>
+					<artifact name="scalacheck_2.10" type="jar" ext="jar" status="successful" details="" size="842817" time="920" location="C:\Users\fahd\.ivy2\cache\org.scalacheck\scalacheck_2.10\jars\scalacheck_2.10-1.10.1.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.10/1.10.1/scalacheck_2.10-1.10.1.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang" name="scala-actors">
+			<revision name="2.10.1" status="release" pubdate="20130312230904" resolver="public" artresolver="public" homepage="http://www.scala-lang.org/" downloaded="true" searched="true" default="false" conf="compile, master(*), runtime, compile(*), runtime(*), master" position="3">
+				<license name="BSD-like" url="http://www.scala-lang.org/downloads/license.html
+         "/>
+				<metadata-artifact status="successful" details="" size="1856" time="140" location="C:\Users\fahd\.ivy2\cache\org.scala-lang\scala-actors\ivy-2.10.1.xml" searched="true" original-local-location="C:\Users\fahd\.ivy2\cache\org.scala-lang\scala-actors\ivy-2.10.1.xml.original" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/scala-lang/scala-actors/2.10.1/scala-actors-2.10.1.pom"/>
+				<caller organisation="org.scalacheck" name="scalacheck_2.10" conf="default, compile, runtime, master" rev="2.10.1" rev-constraint-default="2.10.1" rev-constraint-dynamic="2.10.1" callerrev="1.10.1"/>
+				<artifacts>
+					<artifact name="scala-actors" type="jar" ext="jar" status="successful" details="" size="450110" time="610" location="C:\Users\fahd\.ivy2\cache\org.scala-lang\scala-actors\jars\scala-actors-2.10.1.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/scala-lang/scala-actors/2.10.1/scala-actors-2.10.1.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-tools.testing" name="test-interface">
+			<revision name="0.5" status="release" pubdate="20100327233658" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="compile, master(*), runtime, compile(*), runtime(*), master" position="2">
+				<metadata-artifact status="no" details="" size="2236" time="0" location="C:\Users\fahd\.ivy2\cache\org.scala-tools.testing\test-interface\ivy-0.5.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/scala-tools/testing/test-interface/0.5/test-interface-0.5.pom"/>
+				<caller organisation="org.scalacheck" name="scalacheck_2.10" conf="default, compile, runtime, master" rev="0.5" rev-constraint-default="0.5" rev-constraint-dynamic="0.5" callerrev="1.10.1"/>
+				<artifacts>
+					<artifact name="test-interface" type="jar" ext="jar" status="no" details="" size="4407" time="0" location="C:\Users\fahd\.ivy2\cache\org.scala-tools.testing\test-interface\jars\test-interface-0.5.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/scala-tools/testing/test-interface/0.5/test-interface-0.5.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang" name="scala-library">
+			<revision name="2.10.2" status="release" pubdate="20130606190543" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, master(*), compile(*), runtime, runtime(*), master" position="0">
+				<license name="BSD-like" url="http://www.scala-lang.org/downloads/license.html          "/>
+				<metadata-artifact status="no" details="" size="2517" time="0" location="C:\Users\fahd\.ivy2\cache\org.scala-lang\scala-library\ivy-2.10.2.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.pom"/>
+				<caller organisation="org.scala-lang" name="scala-actors" conf="compile, runtime" rev="2.10.2" rev-constraint-default="2.10.2" rev-constraint-dynamic="2.10.1" callerrev="2.10.1"/>
+				<caller organisation="progfun-quickcheck" name="progfun-quickcheck_2.10" conf="optional, compile, provided, compile-internal" rev="2.10.2" rev-constraint-default="2.10.2" rev-constraint-dynamic="2.10.2" callerrev="1.0.0"/>
+				<caller organisation="org.scalacheck" name="scalacheck_2.10" conf="default, compile, runtime, master" rev="2.10.2" rev-constraint-default="2.10.2" rev-constraint-dynamic="2.10.1" callerrev="1.10.1"/>
+				<artifacts>
+				</artifacts>
+			</revision>
+		</module>
+	</dependencies>
+</ivy-report>

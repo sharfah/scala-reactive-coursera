@@ -1,0 +1,3 @@
+[0m[[0minfo[0m] [0m[32mStep3_ReplicatorSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32m- case1: Replicator should send snapshots when asked to replicate[0m[0m
+[0m[[0minfo[0m] [0m[32m- case2: Replicator should retry until acknowledged by secondary[0m[0m

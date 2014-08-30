@@ -1,0 +1,6 @@
+[0m[[0mdebug[0m] [0mRunning Test suggestions.WikipediaApiTest : subclass(false, org.scalatest.Suite) with arguments [0m
+[0m[[0mdebug[0m] [0mRunning Test suggestions.SwingApiTest : subclass(false, org.scalatest.Suite) with arguments [0m
+[0m[[0minfo[0m] [0mPassed: : Total 10, Failed 0, Errors 0, Passed 10, Skipped 0[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	suggestions.WikipediaApiTest[0m
+[0m[[0mdebug[0m] [0m	suggestions.SwingApiTest[0m

@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0mPackaging C:\Users\fahd\dev\scala2-coursera\nodescala\target\scala-2.10\progfun-nodescala_2.10-1.0.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	common\package.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\fahd\dev\scala2-coursera\nodescala\src\main\scala\common\package.scala[0m
+[0m[[0mdebug[0m] [0m	nodescala\Main.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\fahd\dev\scala2-coursera\nodescala\src\main\scala\nodescala\Main.scala[0m
+[0m[[0mdebug[0m] [0m	nodescala\nodescala.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\fahd\dev\scala2-coursera\nodescala\src\main\scala\nodescala\nodescala.scala[0m
+[0m[[0mdebug[0m] [0m	nodescala\package.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\fahd\dev\scala2-coursera\nodescala\src\main\scala\nodescala\package.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

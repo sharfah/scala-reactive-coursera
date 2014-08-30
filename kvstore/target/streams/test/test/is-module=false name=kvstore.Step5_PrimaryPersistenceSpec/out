@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mStep5_PrimaryPersistenceSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32m- case1: Primary does not acknowledge updates which have not been persisted[0m[0m
+[0m[[0minfo[0m] [0m[32m- case2: Primary retries persistence every 100 milliseconds[0m[0m
+[0m[[0minfo[0m] [0m[32m- case3: Primary generates failure after 1 second if persistence fails[0m[0m
+[0m[[0minfo[0m] [0m[32m- case4: Primary generates failure after 1 second if global acknowledgement fails[0m[0m
+[0m[[0minfo[0m] [0m[32m- case5: Primary acknowledges only after persistence and global acknowledgement[0m[0m

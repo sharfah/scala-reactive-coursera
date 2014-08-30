@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0mChecking file C:\Users\fahd\dev\scala2-coursera\kvstore\src\main\scala\common\package.scala... OK![0m
+[0m[[0minfo[0m] [0mChecking file C:\Users\fahd\dev\scala2-coursera\kvstore\src\main\scala\kvstore\Arbiter.scala... OK![0m
+[0m[[0minfo[0m] [0mChecking file C:\Users\fahd\dev\scala2-coursera\kvstore\src\main\scala\kvstore\Persistence.scala... OK![0m
+[0m[[0minfo[0m] [0mChecking file C:\Users\fahd\dev\scala2-coursera\kvstore\src\main\scala\kvstore\Replica.scala... OK![0m
+[0m[[0minfo[0m] [0mChecking file C:\Users\fahd\dev\scala2-coursera\kvstore\src\main\scala\kvstore\Replicator.scala... OK![0m
+[0m[[0minfo[0m] [0mProcessed 5 file(s)[0m
+[0m[[0minfo[0m] [0mFound 0 errors[0m
+[0m[[0minfo[0m] [0mFound 0 warnings[0m
+[0m[[0minfo[0m] [0mStyle Score: 100 out of 100[0m

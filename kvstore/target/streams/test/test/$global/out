@@ -1,0 +1,14 @@
+[0m[[0mdebug[0m] [0mRunning Test kvstore.Step1_PrimarySpec : subclass(false, org.scalatest.Suite) with arguments [0m
+[0m[[0mdebug[0m] [0mRunning Test kvstore.Step6_NewSecondarySpec : subclass(false, org.scalatest.Suite) with arguments [0m
+[0m[[0mdebug[0m] [0mRunning Test kvstore.Step5_PrimaryPersistenceSpec : subclass(false, org.scalatest.Suite) with arguments [0m
+[0m[[0mdebug[0m] [0mRunning Test kvstore.Step3_ReplicatorSpec : subclass(false, org.scalatest.Suite) with arguments [0m
+[0m[[0mdebug[0m] [0mRunning Test kvstore.Step2_SecondarySpec : subclass(false, org.scalatest.Suite) with arguments [0m
+[0m[[0mdebug[0m] [0mRunning Test kvstore.Step4_SecondaryPersistenceSpec : subclass(false, org.scalatest.Suite) with arguments [0m
+[0m[[0minfo[0m] [0mPassed: : Total 18, Failed 0, Errors 0, Passed 18, Skipped 0[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	kvstore.Step6_NewSecondarySpec[0m
+[0m[[0mdebug[0m] [0m	kvstore.Step3_ReplicatorSpec[0m
+[0m[[0mdebug[0m] [0m	kvstore.Step1_PrimarySpec[0m
+[0m[[0mdebug[0m] [0m	kvstore.Step5_PrimaryPersistenceSpec[0m
+[0m[[0mdebug[0m] [0m	kvstore.Step4_SecondaryPersistenceSpec[0m
+[0m[[0mdebug[0m] [0m	kvstore.Step2_SecondarySpec[0m

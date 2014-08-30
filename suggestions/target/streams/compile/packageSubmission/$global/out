@@ -1,0 +1,21 @@
+[0m[[0minfo[0m] [0mPackaging C:\Users\fahd\dev\scala2-coursera\suggestions\target\scala-2.10\progfun-suggestions_2.10-1.0.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	suggestions\gui\WikipediaSuggest.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\fahd\dev\scala2-coursera\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala[0m
+[0m[[0mdebug[0m] [0m	suggestions\gui\SwingApi.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\fahd\dev\scala2-coursera\suggestions\src\main\scala\suggestions\gui\SwingApi.scala[0m
+[0m[[0mdebug[0m] [0m	suggestions\observablex\SchedulerEx.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\fahd\dev\scala2-coursera\suggestions\src\main\scala\suggestions\observablex\SchedulerEx.scala[0m
+[0m[[0mdebug[0m] [0m	suggestions\package.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\fahd\dev\scala2-coursera\suggestions\src\main\scala\suggestions\package.scala[0m
+[0m[[0mdebug[0m] [0m	common\package.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\fahd\dev\scala2-coursera\suggestions\src\main\scala\common\package.scala[0m
+[0m[[0mdebug[0m] [0m	suggestions\gui\WikipediaApi.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\fahd\dev\scala2-coursera\suggestions\src\main\scala\suggestions\gui\WikipediaApi.scala[0m
+[0m[[0mdebug[0m] [0m	suggestions\search\Search.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\fahd\dev\scala2-coursera\suggestions\src\main\scala\suggestions\search\Search.scala[0m
+[0m[[0mdebug[0m] [0m	suggestions\gui\package.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\fahd\dev\scala2-coursera\suggestions\src\main\scala\suggestions\gui\package.scala[0m
+[0m[[0mdebug[0m] [0m	suggestions\observablex\ObservableEx.scala[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\fahd\dev\scala2-coursera\suggestions\src\main\scala\suggestions\observablex\ObservableEx.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
